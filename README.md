@@ -2,6 +2,9 @@
 
 This repository contains a simple Windows batch script that retrieves weather information for Gorakhpur using the `curl` command and displays it in the command prompt.
 
+![image](https://github.com/user-attachments/assets/3472308b-021f-460a-b49b-adc40487cc33)
+
+
 ## Prerequisites
 
 - Windows operating system
